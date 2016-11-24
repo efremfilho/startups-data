@@ -1,1 +1,997 @@
-{"data":[{"category":"world domination"}]}
+{  
+   "result":[  
+      {  
+         "category":"3d printing"
+      },
+      {  
+         "category":"academia"
+      },
+      {  
+         "category":"ad targeting"
+      },
+      {  
+         "category":"admissions prep"
+      },
+      {  
+         "category":"adventure"
+      },
+      {  
+         "category":"advertising"
+      },
+      {  
+         "category":"aerospace"
+      },
+      {  
+         "category":"affiliate"
+      },
+      {  
+         "category":"agriculture"
+      },
+      {  
+         "category":"analytics"
+      },
+      {  
+         "category":"android"
+      },
+      {  
+         "category":"animal feed"
+      },
+      {  
+         "category":"app"
+      },
+      {  
+         "category":"app stores"
+      },
+      {  
+         "category":"application performance monitoring app"
+      },
+      {  
+         "category":"apps"
+      },
+      {  
+         "category":"architecture"
+      },
+      {  
+         "category":"archiving"
+      },
+      {  
+         "category":"art"
+      },
+      {  
+         "category":"artists"
+      },
+      {  
+         "category":"auctions"
+      },
+      {  
+         "category":"audio"
+      },
+      {  
+         "category":"automation"
+      },
+      {  
+         "category":"automotive"
+      },
+      {  
+         "category":"b2b"
+      },
+      {  
+         "category":"baby boomers"
+      },
+      {  
+         "category":"banking"
+      },
+      {  
+         "category":"beauty"
+      },
+      {  
+         "category":"beer"
+      },
+      {  
+         "category":"big data"
+      },
+      {  
+         "category":"billing"
+      },
+      {  
+         "category":"bioinformatics"
+      },
+      {  
+         "category":"biometrics"
+      },
+      {  
+         "category":"biotechnology"
+      },
+      {  
+         "category":"bitcoin"
+      },
+      {  
+         "category":"blogging platforms"
+      },
+      {  
+         "category":"bocoup loft"
+      },
+      {  
+         "category":"brand marketing"
+      },
+      {  
+         "category":"broadband"
+      },
+      {  
+         "category":"broadcasting"
+      },
+      {  
+         "category":"business"
+      },
+      {  
+         "category":"business intelligence"
+      },
+      {  
+         "category":"business services"
+      },
+      {  
+         "category":"cad hardware"
+      },
+      {  
+         "category":"carbon"
+      },
+      {  
+         "category":"careers"
+      },
+      {  
+         "category":"cars"
+      },
+      {  
+         "category":"celebrity"
+      },
+      {  
+         "category":"certification"
+      },
+      {  
+         "category":"charity"
+      },
+      {  
+         "category":"chat"
+      },
+      {  
+         "category":"clean energy"
+      },
+      {  
+         "category":"cloud computing"
+      },
+      {  
+         "category":"cloud data services"
+      },
+      {  
+         "category":"cloud infrastructure"
+      },
+      {  
+         "category":"cloud management"
+      },
+      {  
+         "category":"coffee"
+      },
+      {  
+         "category":"collaboration"
+      },
+      {  
+         "category":"colleges"
+      },
+      {  
+         "category":"commerce"
+      },
+      {  
+         "category":"communications"
+      },
+      {  
+         "category":"community organizing"
+      },
+      {  
+         "category":"computers"
+      },
+      {  
+         "category":"concerts"
+      },
+      {  
+         "category":"construction"
+      },
+      {  
+         "category":"consulting"
+      },
+      {  
+         "category":"consumer"
+      },
+      {  
+         "category":"consumer goods"
+      },
+      {  
+         "category":"consumer internet"
+      },
+      {  
+         "category":"consumer product"
+      },
+      {  
+         "category":"consumer web"
+      },
+      {  
+         "category":"consumption"
+      },
+      {  
+         "category":"content"
+      },
+      {  
+         "category":"counseling"
+      },
+      {  
+         "category":"coupons"
+      },
+      {  
+         "category":"creative career"
+      },
+      {  
+         "category":"credit cards"
+      },
+      {  
+         "category":"crowdsourcing"
+      },
+      {  
+         "category":"curated web"
+      },
+      {  
+         "category":"custom manufacturing"
+      },
+      {  
+         "category":"customer service"
+      },
+      {  
+         "category":"customer support"
+      },
+      {  
+         "category":"data"
+      },
+      {  
+         "category":"data integration"
+      },
+      {  
+         "category":"data management"
+      },
+      {  
+         "category":"data mining"
+      },
+      {  
+         "category":"data visualization"
+      },
+      {  
+         "category":"databases"
+      },
+      {  
+         "category":"dental"
+      },
+      {  
+         "category":"design"
+      },
+      {  
+         "category":"developer tools"
+      },
+      {  
+         "category":"development platforms"
+      },
+      {  
+         "category":"devices"
+      },
+      {  
+         "category":"digital media"
+      },
+      {  
+         "category":"displays"
+      },
+      {  
+         "category":"doctors"
+      },
+      {  
+         "category":"document management"
+      },
+      {  
+         "category":"dogpatch labs"
+      },
+      {  
+         "category":"drones"
+      },
+      {  
+         "category":"e-books"
+      },
+      {  
+         "category":"e-commerce"
+      },
+      {  
+         "category":"e-discovery"
+      },
+      {  
+         "category":"education"
+      },
+      {  
+         "category":"electronics"
+      },
+      {  
+         "category":"email"
+      },
+      {  
+         "category":"employer benefits"
+      },
+      {  
+         "category":"employment"
+      },
+      {  
+         "category":"energy"
+      },
+      {  
+         "category":"enterprise"
+      },
+      {  
+         "category":"enterprise software"
+      },
+      {  
+         "category":"enterprises"
+      },
+      {  
+         "category":"entertainment"
+      },
+      {  
+         "category":"entrepreneur"
+      },
+      {  
+         "category":"environmental innovation"
+      },
+      {  
+         "category":"event management"
+      },
+      {  
+         "category":"events"
+      },
+      {  
+         "category":"facebook applications"
+      },
+      {  
+         "category":"families"
+      },
+      {  
+         "category":"family"
+      },
+      {  
+         "category":"fantasy sports"
+      },
+      {  
+         "category":"fashion"
+      },
+      {  
+         "category":"file sharing"
+      },
+      {  
+         "category":"finance"
+      },
+      {  
+         "category":"financial services"
+      },
+      {  
+         "category":"fitness"
+      },
+      {  
+         "category":"fleet management"
+      },
+      {  
+         "category":"flowers"
+      },
+      {  
+         "category":"food"
+      },
+      {  
+         "category":"forums"
+      },
+      {  
+         "category":"fraud detection"
+      },
+      {  
+         "category":"freelancers"
+      },
+      {  
+         "category":"freelancing"
+      },
+      {  
+         "category":"fundraising"
+      },
+      {  
+         "category":"gambling"
+      },
+      {  
+         "category":"games"
+      },
+      {  
+         "category":"gaming"
+      },
+      {  
+         "category":"geospatial"
+      },
+      {  
+         "category":"gift card"
+      },
+      {  
+         "category":"google apps"
+      },
+      {  
+         "category":"gps"
+      },
+      {  
+         "category":"graphics"
+      },
+      {  
+         "category":"green"
+      },
+      {  
+         "category":"groceries"
+      },
+      {  
+         "category":"hardware"
+      },
+      {  
+         "category":"hardware + software"
+      },
+      {  
+         "category":"health"
+      },
+      {  
+         "category":"health and insurance"
+      },
+      {  
+         "category":"health and wellness"
+      },
+      {  
+         "category":"health care"
+      },
+      {  
+         "category":"health care services"
+      },
+      {  
+         "category":"health records"
+      },
+      {  
+         "category":"health security"
+      },
+      {  
+         "category":"home & garden"
+      },
+      {  
+         "category":"home renovation"
+      },
+      {  
+         "category":"hospitality"
+      },
+      {  
+         "category":"hospitals"
+      },
+      {  
+         "category":"hotels"
+      },
+      {  
+         "category":"human resources"
+      },
+      {  
+         "category":"identity"
+      },
+      {  
+         "category":"image recognition"
+      },
+      {  
+         "category":"incentives"
+      },
+      {  
+         "category":"incubators"
+      },
+      {  
+         "category":"information technology"
+      },
+      {  
+         "category":"infrastructure"
+      },
+      {  
+         "category":"insurance"
+      },
+      {  
+         "category":"interface design"
+      },
+      {  
+         "category":"internet"
+      },
+      {  
+         "category":"internet enabled devices"
+      },
+      {  
+         "category":"internet radio market music"
+      },
+      {  
+         "category":"internet saas curated web"
+      },
+      {  
+         "category":"it"
+      },
+      {  
+         "category":"it management"
+      },
+      {  
+         "category":"jobs"
+      },
+      {  
+         "category":"kids"
+      },
+      {  
+         "category":"knowledge management"
+      },
+      {  
+         "category":"language learning"
+      },
+      {  
+         "category":"law enforcement"
+      },
+      {  
+         "category":"lead generation"
+      },
+      {  
+         "category":"legal"
+      },
+      {  
+         "category":"life sciences"
+      },
+      {  
+         "category":"local"
+      },
+      {  
+         "category":"location"
+      },
+      {  
+         "category":"location based services"
+      },
+      {  
+         "category":"logistics"
+      },
+      {  
+         "category":"loyalty programs"
+      },
+      {  
+         "category":"m2m"
+      },
+      {  
+         "category":"machine learning"
+      },
+      {  
+         "category":"management"
+      },
+      {  
+         "category":"manufacturing"
+      },
+      {  
+         "category":"market"
+      },
+      {  
+         "category":"market research"
+      },
+      {  
+         "category":"marketing"
+      },
+      {  
+         "category":"marketplaces"
+      },
+      {  
+         "category":"mass customization"
+      },
+      {  
+         "category":"masschallenge"
+      },
+      {  
+         "category":"media"
+      },
+      {  
+         "category":"medical"
+      },
+      {  
+         "category":"meeting"
+      },
+      {  
+         "category":"messaging"
+      },
+      {  
+         "category":"microblogging"
+      },
+      {  
+         "category":"micropayments"
+      },
+      {  
+         "category":"mobile"
+      },
+      {  
+         "category":"mobility"
+      },
+      {  
+         "category":"music"
+      },
+      {  
+         "category":"nanotechnology"
+      },
+      {  
+         "category":"navigation"
+      },
+      {  
+         "category":"networking"
+      },
+      {  
+         "category":"news"
+      },
+      {  
+         "category":"non profit"
+      },
+      {  
+         "category":"nonprofits"
+      },
+      {  
+         "category":"online dating"
+      },
+      {  
+         "category":"online rental"
+      },
+      {  
+         "category":"online reservations"
+      },
+      {  
+         "category":"online shopping"
+      },
+      {  
+         "category":"online video"
+      },
+      {  
+         "category":"open source"
+      },
+      {  
+         "category":"optimization"
+      },
+      {  
+         "category":"outsourcing"
+      },
+      {  
+         "category":"paas"
+      },
+      {  
+         "category":"parenting"
+      },
+      {  
+         "category":"payments"
+      },
+      {  
+         "category":"peer-to-peer"
+      },
+      {  
+         "category":"personal branding"
+      },
+      {  
+         "category":"personal finance"
+      },
+      {  
+         "category":"personalization"
+      },
+      {  
+         "category":"pets"
+      },
+      {  
+         "category":"pharmaceuticals"
+      },
+      {  
+         "category":"photo sharing"
+      },
+      {  
+         "category":"photography"
+      },
+      {  
+         "category":"physicians"
+      },
+      {  
+         "category":"politics"
+      },
+      {  
+         "category":"postal and courier services"
+      },
+      {  
+         "category":"predictive analytics"
+      },
+      {  
+         "category":"presentations software"
+      },
+      {  
+         "category":"printing"
+      },
+      {  
+         "category":"privacy"
+      },
+      {  
+         "category":"productivity"
+      },
+      {  
+         "category":"professional services"
+      },
+      {  
+         "category":"project management"
+      },
+      {  
+         "category":"proximity"
+      },
+      {  
+         "category":"psychology"
+      },
+      {  
+         "category":"public relations"
+      },
+      {  
+         "category":"publishing"
+      },
+      {  
+         "category":"quantitative marketing"
+      },
+      {  
+         "category":"real estate"
+      },
+      {  
+         "category":"real time"
+      },
+      {  
+         "category":"recruiting"
+      },
+      {  
+         "category":"registrars"
+      },
+      {  
+         "category":"rentals"
+      },
+      {  
+         "category":"restaurants"
+      },
+      {  
+         "category":"retail"
+      },
+      {  
+         "category":"retail software"
+      },
+      {  
+         "category":"reviews and recommendations"
+      },
+      {  
+         "category":"risk management"
+      },
+      {  
+         "category":"robotics"
+      },
+      {  
+         "category":"saas"
+      },
+      {  
+         "category":"saas social media digital media"
+      },
+      {  
+         "category":"saas software news small and medium businesses advertising"
+      },
+      {  
+         "category":"sales"
+      },
+      {  
+         "category":"sales and marketing"
+      },
+      {  
+         "category":"science"
+      },
+      {  
+         "category":"search"
+      },
+      {  
+         "category":"security"
+      },
+      {  
+         "category":"self-improvement"
+      },
+      {  
+         "category":"semantic search"
+      },
+      {  
+         "category":"sensors"
+      },
+      {  
+         "category":"seo"
+      },
+      {  
+         "category":"services"
+      },
+      {  
+         "category":"shipping"
+      },
+      {  
+         "category":"shopping"
+      },
+      {  
+         "category":"small and medium businesses"
+      },
+      {  
+         "category":"sms"
+      },
+      {  
+         "category":"social"
+      },
+      {  
+         "category":"social media"
+      },
+      {  
+         "category":"social network"
+      },
+      {  
+         "category":"software"
+      },
+      {  
+         "category":"software development"
+      },
+      {  
+         "category":"speech therapy"
+      },
+      {  
+         "category":"sports"
+      },
+      {  
+         "category":"startup"
+      },
+      {  
+         "category":"startups"
+      },
+      {  
+         "category":"stock exchanges"
+      },
+      {  
+         "category":"storage"
+      },
+      {  
+         "category":"streaming"
+      },
+      {  
+         "category":"subscription businesses"
+      },
+      {  
+         "category":"supercomputing"
+      },
+      {  
+         "category":"supply chain"
+      },
+      {  
+         "category":"supply chain management"
+      },
+      {  
+         "category":"support"
+      },
+      {  
+         "category":"surveys"
+      },
+      {  
+         "category":"sustainability"
+      },
+      {  
+         "category":"synchronization"
+      },
+      {  
+         "category":"task management"
+      },
+      {  
+         "category":"teachers"
+      },
+      {  
+         "category":"technology"
+      },
+      {  
+         "category":"telecommunications"
+      },
+      {  
+         "category":"telephony"
+      },
+      {  
+         "category":"testing"
+      },
+      {  
+         "category":"text analytics"
+      },
+      {  
+         "category":"ticketing"
+      },
+      {  
+         "category":"tools"
+      },
+      {  
+         "category":"tourism"
+      },
+      {  
+         "category":"tracking"
+      },
+      {  
+         "category":"trading"
+      },
+      {  
+         "category":"transcription"
+      },
+      {  
+         "category":"translation"
+      },
+      {  
+         "category":"transportation"
+      },
+      {  
+         "category":"travel"
+      },
+      {  
+         "category":"trusted networks"
+      },
+      {  
+         "category":"twitter applications"
+      },
+      {  
+         "category":"usability"
+      },
+      {  
+         "category":"user experience design"
+      },
+      {  
+         "category":"video"
+      },
+      {  
+         "category":"video games"
+      },
+      {  
+         "category":"video production"
+      },
+      {  
+         "category":"virtualization"
+      },
+      {  
+         "category":"visual search"
+      },
+      {  
+         "category":"visualization"
+      },
+      {  
+         "category":"voip"
+      },
+      {  
+         "category":"web browsers"
+      },
+      {  
+         "category":"web cms."
+      },
+      {  
+         "category":"web design"
+      },
+      {  
+         "category":"web development"
+      },
+      {  
+         "category":"web hosting"
+      },
+      {  
+         "category":"web publishing"
+      },
+      {  
+         "category":"web tools"
+      },
+      {  
+         "category":"webos"
+      },
+      {  
+         "category":"weddings"
+      },
+      {  
+         "category":"wine"
+      },
+      {  
+         "category":"wireless"
+      },
+      {  
+         "category":"world domination"
+      }
+   ]
+}
